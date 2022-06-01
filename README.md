@@ -1,9 +1,13 @@
 # Code Refactor Starter Code
 
+Refactored the exisiting code to make it easier to read and removed redunancy in CSS
 
+## Links
+Active Webpage - https://tahachaudhry.github.io/Module-1/
+GitHub Repository -  git@github.com:tahachaudhry/Module-1.git
 
 ## User Story 
-AS A marketing agency
+AS A marketing agency</br>
 I WANT a codebase that follows accessibility standards</br>
 SO THAT our own site is optimized for search engines</br>
 
