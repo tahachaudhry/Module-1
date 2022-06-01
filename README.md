@@ -4,7 +4,7 @@ Refactored the exisiting code to make it easier to read and removed redunancy in
 
 ## Links
 Active Webpage - https://tahachaudhry.github.io/Module-1/ </br>
-GitHub Repository -  git@github.com:tahachaudhry/Module-1.git
+GitHub Repository -  https://github.com/tahachaudhry/Module-1
 
 ## User Story 
 AS A marketing agency</br>
