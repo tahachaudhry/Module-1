@@ -3,7 +3,7 @@
 Refactored the exisiting code to make it easier to read and removed redunancy in CSS
 
 ## Links
-Active Webpage - https://tahachaudhry.github.io/Module-1/
+Active Webpage - https://tahachaudhry.github.io/Module-1/ </br>
 GitHub Repository -  git@github.com:tahachaudhry/Module-1.git
 
 ## User Story 
